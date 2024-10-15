@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Marketing Text management",
+			"path": "../Marketing Text management"
+		},
+		{
+			"name": "MarketingTextTests",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
